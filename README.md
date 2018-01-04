@@ -1,3 +1,3 @@
 # Embedded-Security
-S and P block simple codes
-ARM implementation
+# S and P block simple codes
+# ARM implementation
